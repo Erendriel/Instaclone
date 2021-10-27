@@ -1,0 +1,11 @@
+{
+  "name": "instaclone",
+  "version": "0.0.1",
+  "description": "El servidor de la app instaclone",
+  "main": "index.js",
+  "author": "Edgar Pérez-Figueroa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
